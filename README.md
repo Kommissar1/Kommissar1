@@ -7,5 +7,5 @@ I am a full-stack developer, excelling in crypto-related things and bots for Tel
 - [Quantum Energy](https://qtenergy.io/)
 
 ### 💬 Contact:
-- Discord: Kommissar#7132 
+- Discord: kommissar29
 - Telegram: @tgkommissar
