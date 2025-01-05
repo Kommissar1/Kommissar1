@@ -18,5 +18,5 @@ Feel free to contact me, I don't bite! :)
 and many more, less notable ones...
 
 ### 💬 Contact:
-- Discord: kommissar29
+- Discord: kommissar1
 - Telegram: @tgkommissar
